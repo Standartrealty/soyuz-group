@@ -1,0 +1,162 @@
+[
+  {
+    "project": "Достояние",
+    "imageSource": "https://soyuz05.ru/wp-content/uploads/2025/07/2-p.-stud-2730-kv.m.-.png",
+    "variants": [
+      {
+        "area": "27,30",
+        "type": "studio"
+      },
+      {
+        "area": "27,30",
+        "type": "1"
+      }
+    ]
+  },
+  {
+    "project": "Достояние",
+    "imageSource": "https://soyuz05.ru/wp-content/uploads/2025/07/1-p.-stud-2730-kv.m.-.png",
+    "variants": [
+      {
+        "area": "27,30",
+        "type": "studio"
+      },
+      {
+        "area": "27,30",
+        "type": "1"
+      }
+    ]
+  },
+  {
+    "project": "Уютный дом",
+    "imageSource": "https://soyuz05.ru/wp-content/uploads/2025/07/7-podezd-2-komnat-7315-kv.m-1.png",
+    "variants": [
+      {
+        "area": "81,6",
+        "type": "2"
+      },
+      {
+        "area": "75,39",
+        "type": "2"
+      },
+      {
+        "area": "73,15",
+        "type": "2"
+      }
+    ]
+  },
+  {
+    "project": "Адмирал",
+    "imageSource": "https://soyuz05.ru/wp-content/uploads/2025/07/4442_00001.jpg",
+    "variants": [
+      {
+        "area": "45,83",
+        "type": "1"
+      },
+      {
+        "area": "44,42",
+        "type": "1"
+      }
+    ]
+  },
+  {
+    "project": "Семейный",
+    "imageSource": "https://soyuz05.ru/wp-content/uploads/2023/09/9172-1.png",
+    "variants": [
+      {
+        "area": "92,67",
+        "type": "3"
+      },
+      {
+        "area": "91,72",
+        "type": "3"
+      },
+      {
+        "area": "84,56",
+        "type": "3"
+      }
+    ]
+  },
+  {
+    "project": "Семейный",
+    "imageSource": "https://soyuz05.ru/wp-content/uploads/2023/09/6288-1.png",
+    "variants": [
+      {
+        "area": "75,17",
+        "type": "2"
+      },
+      {
+        "area": "74,94",
+        "type": "2"
+      },
+      {
+        "area": "73,77",
+        "type": "2"
+      },
+      {
+        "area": "68,01",
+        "type": "2"
+      },
+      {
+        "area": "67,78",
+        "type": "2"
+      },
+      {
+        "area": "67,68",
+        "type": "2"
+      },
+      {
+        "area": "67,02",
+        "type": "2"
+      },
+      {
+        "area": "66,72",
+        "type": "2"
+      },
+      {
+        "area": "62,68",
+        "type": "2"
+      }
+    ]
+  },
+  {
+    "project": "Семейный",
+    "imageSource": "https://soyuz05.ru/wp-content/uploads/2023/09/3-d-4447.jpg",
+    "variants": [
+      {
+        "area": "44,5",
+        "type": "1"
+      },
+      {
+        "area": "44,47",
+        "type": "1"
+      }
+    ]
+  },
+  {
+    "project": "Каспийский",
+    "imageSource": "https://soyuz05.ru/wp-content/uploads/2023/09/688.png",
+    "variants": [
+      {
+        "area": "92,1",
+        "type": "3"
+      },
+      {
+        "area": "72,6",
+        "type": "2"
+      },
+      {
+        "area": "71,3",
+        "type": "2"
+      },
+      {
+        "area": "69,5",
+        "type": "2"
+      },
+      {
+        "area": "68,9",
+        "type": "2"
+      }
+    ]
+  }
+]
