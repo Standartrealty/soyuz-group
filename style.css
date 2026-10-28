@@ -29,3 +29,5 @@ body{background:#f5f4ef;color:#262821}header{background:#262821;height:104px}.br
 .plan-unavailable{display:grid;place-items:center;padding:20px;text-align:center;background:#efefe9;color:#777b70;font-size:17px}.plan-unavailable small{display:block;font-size:11px;margin-top:10px}
 
 .mobile-nav-extra{display:none}@media(max-width:800px){#navigation.open{max-height:calc(100svh - 180px);overflow-y:auto;gap:18px}.mobile-nav-extra{display:block}}
+
+.office-map{background:#eeeee7}.office-map iframe{display:block;width:100%;margin:24px 0;background:#e4e6dc}@media(max-width:800px){.office-map iframe{height:320px}}
